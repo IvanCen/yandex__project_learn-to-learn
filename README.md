@@ -5,7 +5,7 @@
 Верстка проходила код ревью.  
 
 ## Демо 
-![Main page](https://github.com/IvanCen/museum_project/blob/master/images/musem.png "Акции")
+![Main page](https://github.com/IvanCen/yandex__project_learn-to-learn/blob/gh-page/images/Pic_project.png "Научится учиться")
 
 ## Как открыть?
 Пройти по ссылке: https://ivancen.github.io/yandex__project_learn-to-learn/
